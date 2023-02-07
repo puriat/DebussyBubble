@@ -8,4 +8,5 @@ Well, i am thinking of wokring with alot of things in frontend but i dont get th
 # Plot
 I can't just write code without implementing a real examlpe and i don't like to put alot of time coming up with ideas. i am just going to pick one of my weekly problem when i go shopping. i need to keep track of what i am going to buy. every week i have to thinkg about what i need or go through all the notes that i have and merge them together which is not convenient. Sooooo... i am going to build an app to keep track of what i am buying and maybe a little bit in future adding some functionality to it like usage rate, recommendation, price comparison, priority, plan based on budget and importance of the product and ...
 
-
+# Guild lines
+[Git Convntion](https://www.conventionalcommits.org/en/v1.0.0/#specification)
